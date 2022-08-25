@@ -1,5 +1,5 @@
 //
-// Created by XaveF on 8/25/2022.
+// Created by Franssiskus Agapa on 8/25/2022.
 //
 
 #ifndef CLASSC__2_CAPITALIZEDWORD_H
